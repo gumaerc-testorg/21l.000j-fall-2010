@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86ea9f2e-5859-89fa-a5e5-1ef480a61725
 resourcetype: Document
 title: Report Guidelines
 uid: 902ca801-be64-251e-6f99-98bf7641f465

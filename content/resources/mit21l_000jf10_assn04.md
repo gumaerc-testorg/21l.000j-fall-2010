@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 86ea9f2e-5859-89fa-a5e5-1ef480a61725
 resourcetype: Document
 title: Revision Workshop Worksheet
 uid: 7e0db159-7ed1-f314-39dc-859800a9606d
