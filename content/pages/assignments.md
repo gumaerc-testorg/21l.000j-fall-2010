@@ -1,16 +1,21 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the assignments
+  of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 86ea9f2e-5859-89fa-a5e5-1ef480a61725
 ---
 
-Notes on Close Reading ([PDF]({{< baseurl >}}/resources/mit21l_000jf10_assn01))
+Notes on Close Reading ({{% resource_link 911de183-b58b-0a25-75b5-324effb9b95c "PDF" %}})
 
-Report Guidelines ([PDF]({{< baseurl >}}/resources/mit21l_000jf10_assn02))
+Report Guidelines ({{% resource_link 902ca801-be64-251e-6f99-98bf7641f465 "PDF" %}})
 
-Guidelines for Revision ([PDF]({{< baseurl >}}/resources/mit21l_000jf10_assn03))
+Guidelines for Revision ({{% resource_link be23a6f3-0478-cfa2-5b81-087bb648b9b4 "PDF" %}})
 
-Revision Workshop Worksheet ([PDF]({{< baseurl >}}/resources/mit21l_000jf10_assn04))
+Revision Workshop Worksheet ({{% resource_link 7e0db159-7ed1-f314-39dc-859800a9606d "PDF" %}})
 
 The work will necessarily focus on certain core questions and issues, which will be important to class discussions, oral presentations, and written assignments:
 

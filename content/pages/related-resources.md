@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides links to related resources for writing about literature.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 47883cce-5561-9519-6482-46621dbae784
 ---
