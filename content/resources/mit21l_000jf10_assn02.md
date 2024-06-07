@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines for writing reports for the course.
 file: /courses/21l-000j-writing-about-literature-fall-2010/902ca801be64251e6f9998bf7641f465_MIT21L_000JF10_assn02.pdf
+file_size: 28840
 file_type: application/pdf
 learning_resource_types:
 - Assignments
