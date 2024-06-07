@@ -2,6 +2,7 @@
 content_type: resource
 description: Worksheet for a workshop on revising a research essay.
 file: /courses/21l-000j-writing-about-literature-fall-2010/7e0db1597ed1f31439dc859800a9606d_MIT21L_000JF10_assn04.pdf
+file_size: 26027
 file_type: application/pdf
 learning_resource_types:
 - Assignments
