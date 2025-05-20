@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on close reading for the course assignments.
-file: /ol-ocw-studio-app/courses/21l-000j-writing-about-literature-fall-2010/911de183b58b0a2575b5324effb9b95c_MIT21L_000JF10_assn01.pdf
+file: /courses/21l-000j-writing-about-literature-fall-2010/911de183b58b0a2575b5324effb9b95c_MIT21L_000JF10_assn01.pdf
 file_size: 39321
 file_type: application/pdf
 learning_resource_types:
