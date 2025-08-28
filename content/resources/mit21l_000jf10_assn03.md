@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for an assignment to revise a research essay.
-file: /courses/21l-000j-writing-about-literature-fall-2010/be23a6f30478cfa25b81087bb648b9b4_MIT21L_000JF10_assn03.pdf
+file: /ol-ocw-studio-app/courses/21l-000j-writing-about-literature-fall-2010/be23a6f30478cfa25b81087bb648b9b4_MIT21L_000JF10_assn03.pdf
 file_size: 33862
 file_type: application/pdf
 learning_resource_types:
