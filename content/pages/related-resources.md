@@ -9,107 +9,107 @@ uid: 47883cce-5561-9519-6482-46621dbae784
 ---
 ## Resources
 
-[On Close Reading - English and Comparative Literary Studies](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/second/en227/closereading/)      
+{{% resource_link "b83f4302-bb46-48fe-ab3c-3a68926bca9b" "On Close Reading - English and Comparative Literary Studies" %}}      
 From University of Warwick. Targeted at reading poems but useful for brief prose passages as well.
 
-[Resources for Literary Study at the MIT Libraries](http://libguides.mit.edu/lit)      
+{{% resource_link "4d4b3cfc-4e53-4969-af68-ed65680ffc04" "Resources for Literary Study at the MIT Libraries" %}}      
 Link to databases for scholarly articles and other resources.
 
-[Citation Guidelines](http://owl.english.purdue.edu/owl/resource/747/01/)      
+{{% resource_link "b07d4a3e-1d12-49bd-b288-1ec4a5ce4789" "Citation Guidelines" %}}      
 MLA (Modern Language Association) style is most commonly used to write papers and cite sources within the liberal arts and humanities. This resource, updated to reflect the MLA Handbook for Writers of Research Papers (7th ed.) and the MLA Style Manual and Guide to Scholarly Publishing (3rd ed.) offers examples for the general format of MLA research papers, in-text citations, endnotes/footnotes, and the Works Cited page.
 
-[MLA Documentation Guide](http://writing.wisc.edu/Handbook/DocMLA.html)      
+{{% resource_link "8a6c7ba0-682b-4454-ab32-b61dd200b4b8" "MLA Documentation Guide" %}}      
 Linked from the MIT Writing and Communication Center.
 
-Jenkins, Henry. "[What Wikipedia Can Teach Us About The New Media Literacies (Part One)](http://www.henryjenkins.org/2007/06/what_wikipedia_can_teach_us_ab.html)".
+Jenkins, Henry. "{{% resource_link "7a679189-e9b7-482c-973b-edd842bfa33f" "What Wikipedia Can Teach Us About The New Media Literacies (Part One)" %}}".
 
-[Argument and Thesis](http://owl.english.purdue.edu/owl/owlprint/588/)      
+{{% resource_link "94d97325-16ca-46f3-ad62-42bae9923618" "Argument and Thesis" %}}      
 Ways to test your thesis statement. From Purdue OWL.
 
 ## Grammar and Style
 
-[MIT Libraries Style Manuals and Guides](http://libguides.mit.edu/content.php?pid=80743&sid=598619)      
+{{% resource_link "651dfec0-c269-464b-96ef-e2709234f0e8" "MIT Libraries Style Manuals and Guides" %}}      
 Resources for Writers.
 
-Fowler, H. W. "[The King's English](http://www.bartleby.com/116/)".
+Fowler, H. W. "{{% resource_link "c7472b46-7092-4e8a-abed-7cff2d64cf26" "The King's English" %}}".
 
-Davidson, Willing. "[Elements and Elegance: Fifty Years](http://www.newyorker.com/online/blogs/books/2009/04/large-numbers-for-strunk-and.html)". *The New Yorker*, April 16, 2009.
+Davidson, Willing. "{{% resource_link "97064872-9378-4bf2-b57a-31cfce4eac15" "Elements and Elegance: Fifty Years" %}}". *The New Yorker*, April 16, 2009.
 
-Corbett, Philip B. "[Subject, Meet Verb](http://topics.blogs.nytimes.com/2009/08/04/subject-meet-verb/)". *The New York Times*, August 4, 2009.
+Corbett, Philip B. "{{% resource_link "80e6fdde-03b7-4801-b68a-3e2e4cefaea6" "Subject, Meet Verb" %}}". *The New York Times*, August 4, 2009.
 
 ## Frankenstein
 
-Murphy, Brian T. "[Frankenstein](http://www.brian-t-murphy.com/Frankenstein.html)".
+Murphy, Brian T. "{{% resource_link "959d0ef9-b146-4cb5-8899-898a81ad4763" "Frankenstein" %}}".
 
-[Electronic Text of Frankenstein](http://web.archive.org/web/20080917154449/http://etext.lib.virginia.edu/toc/modeng/public/SheFran.html)      
+{{% resource_link "e656c71b-6ab8-4230-a0e0-217eecbd9609" "Electronic Text of Frankenstein" %}}      
 1831 edition. From the University of Virginia database.
 
-[Myth of Prometheus (in Hesiod's Theogony)](http://www.sacred-texts.com/cla/hesiod/theogony.htm)      
+{{% resource_link "3291e042-5373-4a65-9087-79d0d71cd2bd" "Myth of Prometheus (in Hesiod's Theogony)" %}}      
 Start at Book II, lines 507-616.
 
-Byron, Lord George Gordon. "[Prometheus](http://www.poetryfoundation.org/poem/173099)".
+Byron, Lord George Gordon. "{{% resource_link "5e7883b4-94a6-4524-abec-92fbb8cfb8e0" "Prometheus" %}}".
 
-[Prometheus Bound](http://www.bartleby.com/8/4/)      
+{{% resource_link "a8b35747-8de3-47f5-9d60-8ef0fe30810c" "Prometheus Bound" %}}      
 In Harvard classics, at Bartleby.
 
-[Volney's The Ruins: Meditation on the Revolutions of Empires](http://www.gutenberg.org/files/1397/1397-h/1397-h.htm#2HCH0012)
+{{% resource_link "e5b13034-8a0d-465a-a0b6-6f279a66c6f0" "Volney's The Ruins: Meditation on the Revolutions of Empires" %}}
 
-[John Milton, Paradise Lost, Book IX](http://www.infoplease.com/t/lit/paradise-lost/book9.html)      
+{{% resource_link "20ec33af-26e9-4803-877b-60b6b2ee6d05" "John Milton, Paradise Lost, Book IX" %}}      
 Lines 743-45, the epigraph to Frankenstein. Not in book X, as the Norton note indicates.
 
-[Complete Paradise Lost](https://milton.host.dartmouth.edu/reading_room/pl/note/text.shtml)
+{{% resource_link "7bc52a78-55c3-4aec-be1a-0f124b7303bf" "Complete Paradise Lost" %}}
 
-[Goethe's The Sorrows of Young Werther](http://www.gutenberg.org/files/2527/2527-h/2527-h.htm)
+{{% resource_link "dc50e77f-e218-47df-ac15-f19edc84466f" "Goethe's The Sorrows of Young Werther" %}}
 
-[Plutarch's Lives](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=674)
+{{% resource_link "8305669b-1d95-4e83-b026-193ff5fbbfbc" "Plutarch's Lives" %}}
 
-[Voice of the Shuttle Romantics Page](http://vos.ucsb.edu/browse.asp?id=2750)
+{{% resource_link "bb2e6ba6-7c36-4971-8dcf-daf01ca8b722" "Voice of the Shuttle Romantics Page" %}}
 
-[Romantic Circles](http://www.rc.umd.edu/)      
+{{% resource_link "e6b3d73d-8ed6-4548-994a-584c388351f5" "Romantic Circles" %}}      
 A scholarly site with many essays, links, and resources on Romantic poets, including a large selection of materials on Frankenstein.
 
-[Samuel Taylor Coleridge, The Rime of The Ancient Mariner](http://www.gutenberg.org/files/151/151-h/151-h.htm)
+{{% resource_link "84d9cead-eacd-490e-81e6-c81118eb0e57" "Samuel Taylor Coleridge, The Rime of The Ancient Mariner" %}}
 
-Wordsworth, William. "[Lines … Tintern Abbey](https://romantic-circles.org/sites/default/files/RCOldSite/www/rchs/reader/tabbey.html)".
+Wordsworth, William. "{{% resource_link "d96fd26c-9206-4646-a7b6-254f795fbe3c" "Lines … Tintern Abbey" %}}".
 
-[Edmund Burke on the Sublime (excerpt)](http://www.wwnorton.com/college/english/nael/romantic/topic_1/burke.htm)      
+{{% resource_link "3252a5c9-1602-43c5-8250-760320bd75c6" "Edmund Burke on the Sublime (excerpt)" %}}      
 From the Norton Anthology Of English Literature.
 
 Wollstonecraft, Mary. *A Vindication of the Rights of Woman*. New York, NY: Konemann, 1998. ISBN: 9783829008983.
 
-Phillips, William D., Jr., and Carla R. Phillips. *The Worlds of Christopher Columbus*. Cambridge, UK: Cambridge University Press, 1993. ISBN: 9780521446525. \[Preview with [Google Books](http://books.google.com/books?id=tVAxgY0sUpEC&pg=RA2-PA190&lpg=RA2-PA190&dq=story+of+columbus+and+the+egg+Benzoni&source=bl&ots=x4075z4O9D&sig=KrrRi55XxVTNdE8eUJ2EZH06pgA&hl=en&ei=PNzASpyOKMjRlAeEmfiwBQ&sa=X&oi=book_result&ct=result&resnum=1#v=onepage&q=st&f=false)\]
+Phillips, William D., Jr., and Carla R. Phillips. *The Worlds of Christopher Columbus*. Cambridge, UK: Cambridge University Press, 1993. ISBN: 9780521446525. \[Preview with {{% resource_link "95348bee-0682-4029-b5d1-3ccc2ac4726d" "Google Books" %}}\]
 
 ## Benito Cereno
 
-[Full Text of 1855 The Piazza Tales](http://www.esp.org/books/melville/piazza/title.html)      
+{{% resource_link "e07c5eb2-2bc3-4f20-bc1f-05ca3f130ef8" "Full Text of 1855 The Piazza Tales" %}}      
 Edited by Robert Robbins for Electronic Scholarly Publishing.
 
-[See what the fans say . . .](http://www.goodreads.com/book/show/178629.Benito_Cereno)
+{{% resource_link "98827286-03ee-4003-934d-23f5927d93d8" "See what the fans say . . ." %}}
 
-[Melville page at American Authors site](http://www.wsu.edu/~campbelld/amlit/melville.htm)      
+{{% resource_link "78cad1be-6d75-455c-821d-3f6a1b90e879" "Melville page at American Authors site" %}}      
 Edited by Donna Campbell at Gonzaga University.
 
-[Uncle Tom's Cabin and American Culture](http://utc.iath.virginia.edu/)      
+{{% resource_link "5ea5f48d-bfab-443c-a3c3-1a0a83b3ea1e" "Uncle Tom's Cabin and American Culture" %}}      
 Edited by Stephen Railton, includes rich materials on sources for Stowe's book, information on slave narratives.
 
 Bushman, Jay. "The Good Captain".
 
-[Gilder Lehrman Center page on the Amistad](http://glc.yale.edu/amistad-page)
+{{% resource_link "68099b2f-93ec-4270-815e-56056775093c" "Gilder Lehrman Center page on the Amistad" %}}
 
 ## Oscar Wilde
 
-[The Victorian Web](http://www.victorianweb.org/)      
+{{% resource_link "f9ecb146-2d99-4e39-86af-d5692ba4e115" "The Victorian Web" %}}      
 The Victoria Web Archive.
 
-Wilde, Oscar. "[The Decay of Lying](http://www.mnstate.edu/gracyk/courses/phil%20of%20art/wildetext.htm)".
+Wilde, Oscar. "{{% resource_link "a5ad211c-8d00-4482-ac73-b4503fd7c54e" "The Decay of Lying" %}}".
 
-Craft, Christopher. "[Alias Bunbury: Desire and Termination in *The Importance of Being Earnest*](http://www.jstor.org/pss/2928398)".
+Craft, Christopher. "{{% resource_link "a87d9c98-c1eb-47ef-a1f5-3e5465be732d" "Alias Bunbury: Desire and Termination in *The Importance of Being Earnest*" %}}".
 
 ## Alison Bechdel
 
-Chute, Hillary. "[Gothic Revival](https://www.villagevoice.com/2006/07/04/gothic-revival-2/)". *The Village Voice*, July 4, 2006.
+Chute, Hillary. "{{% resource_link "f7c7611d-1f25-4f05-aa5e-245347adca98" "Gothic Revival" %}}". *The Village Voice*, July 4, 2006.
 
-[Dykes to Watch Out For](http://dykestowatchoutfor.com/)      
+{{% resource_link "692b4164-9627-4135-b94b-b67c032fce01" "Dykes to Watch Out For" %}}      
 Alison Bechdel's Web site and blog.
 
-Wilsey, Sean. "[The Things They Buried](http://www.nytimes.com/2006/06/18/books/review/18wilsey.html?_r=4&oref=slogin)". *The New York Times*, June 18, 2006.
+Wilsey, Sean. "{{% resource_link "49a76459-c1ae-4ccd-86a9-2bac6628b24d" "The Things They Buried" %}}". *The New York Times*, June 18, 2006.
