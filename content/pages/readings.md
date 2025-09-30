@@ -117,7 +117,7 @@ Sources and Contexts for _Frankenstein_: Philosophy (John Locke, Jean-Jacques Ro
 
 _Frankenstein_ Adaptations: Early Silent Film
 
-Branagh, Kenneth. [_Frankenstein_](http://www.imdb.com/title/tt0109836/). 1994
+Branagh, Kenneth. {{% resource_link "aeea3ed9-4db9-47df-9f5a-ab7ee07795d6" "_Frankenstein_" %}}. 1994
 
 
 {{< tdclose >}}
@@ -181,7 +181,7 @@ Wilde, Oscar. _The Importance of Being Earnest, and Other Plays_. New York, NY: 
 
 Wilde, Oscar. _The Importance of Being Earnest, and Other Plays_. New York, NY: Oxford University Press, 2008. ISBN: 9780199535972. (cont.)
 
-Parker, Oliver. [_The Importance of Being Earnest_](http://www.imdb.com/title/tt0278500/). 2002
+Parker, Oliver. {{% resource_link "8035a072-826a-463d-a286-02f3422059bf" "_The Importance of Being Earnest_" %}}. 2002
 
 
 {{< tdclose >}}
