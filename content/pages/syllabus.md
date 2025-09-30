@@ -131,7 +131,7 @@ Active participation, including thorough reading of assigned materials before cl
 MIT Statement on Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "a7405b53-451b-40b2-ad50-8b5b0c2d8579" "Writing and Communication Center" %}} and the {{% resource_link "5fd41e75-e012-4c9f-a229-e3ebf80ed182" "MIT Web site on Plagiarism" %}}.
 
 Calendar
 --------
@@ -297,7 +297,7 @@ Essay 2 (Research paper on the implications of a source or context for _Frankens
 
 _Frankenstein_ Adaptations: Early Silent Film
 
-Branagh, Kenneth. [_Frankenstein_](http://www.imdb.com/title/tt0109836/). 1994
+Branagh, Kenneth. {{% resource_link "aeea3ed9-4db9-47df-9f5a-ab7ee07795d6" "_Frankenstein_" %}}. 1994
 
 
 {{< tdclose >}}
@@ -403,7 +403,7 @@ Wilde. _The Importance of Being Earnest_
 
 Wilde. _The Importance of Being Earnest_ (cont.)
 
-Parker, Oliver. [_The Importance of Being Earnest_](http://www.imdb.com/title/tt0278500/). 2002
+Parker, Oliver. {{% resource_link "8035a072-826a-463d-a286-02f3422059bf" "_The Importance of Being Earnest_" %}}. 2002
 
 
 {{< tdclose >}}
